@@ -6,3 +6,18 @@ API
 
    versioning
    1.x/index
+
+
+Changelog
+---------
+
+1.1 (2015-12-01)
+''''''''''''''''
+
+- Renamed fields in the :ref:`root URL view <api-utilities>`
+
+
+1.0 (2015-06-17)
+''''''''''''''''
+
+- Initial working version.
